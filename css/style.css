@@ -65,6 +65,12 @@ section.home {
     z-index: 20;
 }
 
+.logo a {
+    text-decoration: none;
+    color: #1b206e;
+
+}
+
 /*  TOGGLE */
 .toggle {
     position: fixed;
